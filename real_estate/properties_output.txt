@@ -1,0 +1,3 @@
+P001 | 2 Bed Apartment | 1500.00 EUR | RENTAL | Main St, Dublin (D01) | Listed: 2025-04-11 | Available: true
+P002 | 3 Bed House | 250000.00 EUR | SALE | Park Rd, Galway (G02) | Listed: 2025-04-01 | Available: true
+P003 | 1 Bed Flat | 1800.00 EUR | RENTAL | College Rd, Limerick (L03) | Listed: 2025-04-08 | Available: false
